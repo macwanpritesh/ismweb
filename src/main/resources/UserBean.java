@@ -2,11 +2,6 @@
 public class UserBean {
 
 	
-
-
-
-
-
 	
 	
 	asdfghjkl;
