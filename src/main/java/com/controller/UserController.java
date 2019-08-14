@@ -57,6 +57,9 @@ public class UserController {
 			bos.write(data);
 			bos.flush();
 			bos.close();
+
+
+			System.out.println("hello.....") ;
 			
 		}
 		
