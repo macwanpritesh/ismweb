@@ -63,9 +63,14 @@ public class UserController {
 
 			System.out.println("hello world") ;
 
+<<<<<<< HEAD
 System.out.println("hello world") ;
 System.out.println("hello world") ;
 System.out.println("hello world") ;
+=======
+		xdcfvgtyhbujikm,olp.;/'	
+xcvbnm,.xcvbnm,.cxvbnm,./
+>>>>>>> 8bae45b7740469c5b811fecc0f1d74054cca11dc
 			
 		}
 		
